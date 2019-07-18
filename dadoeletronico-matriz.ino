@@ -1,18 +1,4 @@
-/*Created by Rui Santos
- http://randomnerdtutorials.com/
----------------------------------
- 
- Modificado por Rodrigo Costa
- https://eletronicaparatodos.com/
- Em: 14/03/2017
----------------------------------------------------------------------------
- INSTRUCOES PARA INTERFACE DOS PINOS DA MATRIZ COM OS PINOS DO ARDUINO UNO:
----------------------------------------------------------------------------
- DIN se conecta ao pino 12
- CLK se conecta ao pino 11
- CS se conecta ao pino 10 
-*/
- 
+
 #include "LedControl.h"
 #include "binary.h"
  
