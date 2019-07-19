@@ -1,5 +1,3 @@
-//Baseado no codigo de Abhinav Faujdar
-//Modificado por Lucas Martins @LukinMar
 #include <Adafruit_GFX.h>
 #include <Adafruit_PCD8544.h>
 #include <SPI.h>
